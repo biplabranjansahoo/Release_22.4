@@ -1,4 +1,9 @@
 hello sample
+
+Hi Sample
 hello my name is sampel
 
+<<<<<<< HEAD
 123
+=======
+>>>>>>> 58abe38b407a0f49417698d9caf78dabe76d2dcb
